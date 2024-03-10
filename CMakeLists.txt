@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
-project(untitled24)
+project(game-engine)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled24 main.cpp)
+add_executable(game-engine main.cpp)
